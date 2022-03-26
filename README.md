@@ -1,1 +1,1 @@
-# translator_hugging_face
+**Задача:** организовать машинный перевод с помощью нейросетей higging face
